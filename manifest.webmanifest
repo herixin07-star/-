@@ -1,0 +1,16 @@
+{
+  "name": "医院渠道销售分析看板",
+  "short_name": "销售看板",
+  "description": "何日新 · 深圳区域销售分析看板",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1B2A4A",
+  "theme_color": "#1B2A4A",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
